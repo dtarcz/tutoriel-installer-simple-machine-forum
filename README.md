@@ -3,7 +3,7 @@
 
 >téléchargement de l'archive du CMS :
 
-`wget http://download.simplemachines.org/index.php/filename=smf_2-0-11_install.tar.bz2`
+`wget http://download.simplemachines.org/index.php/smf_2-0-11_install.tar.bz2`
 
 >on vérifie que c'est bien installé :
 
