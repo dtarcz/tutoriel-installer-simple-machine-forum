@@ -5,17 +5,17 @@
 
 `wget http://download.simplemachines.org/index.php/smf_2-0-11_install.tar.bz2`
 
->on vérifie que c'est bien installé :
-
-`ll`
-
->on crée un dossier/repo/ dans lequel le forum ira se décompresser :
+>on crée un dossier smf/ dans lequel le forum ira se décompresser :
 
 `mkdir smf`
 
 >on décompresse l'archive dedans :
 
 `tar -xvf smf_2-0-11_install.tar.bz2 -C smf/`
+
+>on vérifie que c'est bien installé :
+
+`ll`
 
 >maintenant ouvrez votre navigateur à l'adresse d'installation
 
